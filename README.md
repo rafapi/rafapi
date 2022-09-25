@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 Working on Offline RL resewarch, primarily focusing on NLP model efficiency but always keeping an eye on the Robotics landscape.
+- 🌱 Learning? All the time!
 <!--
 **rafapi/rafapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
