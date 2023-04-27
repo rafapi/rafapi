@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🔭 Currently working on aligning AI systems with Human Preferences.
 <!--
 **rafapi/rafapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
